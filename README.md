@@ -1,4 +1,4 @@
-# Advanced Healthcare Billing and Patient Statistics Dashboard
+# Healthcare Billing and Patient Statistics Dashboard
 
 This repository contains a comprehensive Power BI dashboard designed to provide deep insights into healthcare metrics, including billing amounts, treatment costs, and patient demographics. The dashboard enables healthcare administrators and professionals to make data-driven decisions that optimize operational efficiency, manage costs, and improve patient care.
 
